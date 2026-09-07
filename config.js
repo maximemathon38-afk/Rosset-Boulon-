@@ -1,9 +1,7 @@
 window.RBF_CONFIG = {
-  SUPABASE_URL: "https://vlvbngmzbftnwufrpish.supabase.co",
+  SUPABASE_URL: "https://hfrpzhlqovtpgakirqra.supabase.co",
 
-  // Mets uniquement ta clé Supabase PUBLIABLE ici : sb_publishable_...
-  // Ne jamais mettre de clé sb_secret_... dans GitHub.
-  SUPABASE_PUBLISHABLE_KEY: "",
+  SUPABASE_PUBLISHABLE_KEY: "sb_publishable_hnaYE41tfP0EnntJwQQ7tA_88LsJBvf",
 
   ADMIN_CODE: "RBF2026",
   REFRESH_INTERVAL_MS: 10000
